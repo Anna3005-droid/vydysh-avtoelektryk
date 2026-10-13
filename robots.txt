@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vydysh-avtoelektryk.vercel.app/sitemap.xml
